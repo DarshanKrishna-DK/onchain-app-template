@@ -5,7 +5,14 @@
   </picture>
 </p>
 
-# Onchain App Template
+<h1 align="center">Onchain App Template</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OnchainKit-3178C6?style=for-the-badge" alt="OnchainKit" />
+  <img src="https://img.shields.io/badge/Next.js-7C3AED?style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-0F766E?style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Web3-334155?style=for-the-badge" alt="Web3" />
+</p>
 
 An Onchain App Template build with [OnchainKit](https://onchainkit.xyz), and ready to be deployed to Vercel.
 
